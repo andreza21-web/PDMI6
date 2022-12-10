@@ -1,0 +1,8 @@
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.AssemblyReference.cache
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\GeoLocalizaPage.xaml.g.cs
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfoInputs.cache
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfo.cs
+C:\Andreza\TPFinal\TPFinal\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.CoreCompileInputs.cache
